@@ -1,7 +1,7 @@
 # Analisi Socioeconomica
 
 Questo progetto analizza diversi modelli statistici, partendo da approcci semplici fino a modelli più complessi.  
-L'obiettivo è osservare se esistono relazioni significative tra due principali variabili dipendenti — **aspettativa di vita** e **PIL pro capite** — e una serie di indicatori socioeconomici estratti dal dataset WDI.
+L'obiettivo è ricercare eventuali relazioni significative tra due principali variabili dipendenti — **aspettativa di vita** e **PIL pro capite** — e una serie di indicatori socioeconomici estratti dal dataset WDI.
 
 L’analisi è stata costruita in modo progressivo:
 - Si parte da modelli OLS semplici (es. effetto del PIL pro capite sull'aspettativa di vita),
