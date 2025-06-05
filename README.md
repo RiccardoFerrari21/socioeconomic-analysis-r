@@ -38,7 +38,7 @@ https://www.kaggle.com/datasets/xavier14/wdidata
 
 1. Scarica il file `WDIData.csv` dal link sopra  
 2. Inseriscilo nella cartella `Data/`  
-3. Apri il progetto `GDP_R_Analysis.Rproj` in RStudio  
+3. Apri il progetto `SocioEconomic_R_Analysis.Rproj` in RStudio  
 4. Lancia lo script nella cartella `Script/`
 ---
 
